@@ -1,0 +1,585 @@
+{\rtf\ansi\deff0\fs20
+{\fonttbl{\f0 Times New Roman;}{\f1 Arial;}}
+{\colortbl;\red0\green0\blue0;\red127\green127\blue127;\red28\green63\blue148;\red102\green102\blue102;\red89\green89\blue89;}
+{\info
+}
+\paperw11907 \paperh16840 \deftab1298 \margl851 \margr567 \margt1134 \margb1134 \pgnstart1\ftnnar \aftnnrlc \ftnstart1 \aftnstart1 {\header }
+{\footer {\fs20 \f1 \line Copyright @ 2023 JobStreet.com}
+}
+
+\pard\trowd\trql\clvmgf\clpadft3\clpadt227 \clpadfl3\clpadl284 \cellx1814\clvmgf\clpadft3\clpadt113 \clpadfb3\clpadb57 \cellx10489
+
+
+\intbl\itap2
+\ql\ql {\*\shppict {\pict\jpegblip\picscalex100\picscaley100\picwgoal1418\pichgoal1418 ffd8ffe000104a46494600010100000100010000fffe003e43524541544f523a2067642d6a7065672076312e3020287573696e6720494a47204a50454720763632292c2064656661756c74207175616c6974790affdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720222c231c1c2837292c30313434341f27393d38323c2e333432ffdb0043010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232323232ffc00011080096009603012200021101031101ffc4001f0000010501010101010100000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400b51100020102040403040705040400010277000102031104052131061241510761711322328108144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a434445464748494a535455565758595a636465666768696a737475767778797a82838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00e2a8a28afd1cf990a28a2800a28a2800a29af224485dd82a8ea4d605f6b6f2318edb72a7f78753fe15cb89c5d2c3abcdebd8d69519d57ee9d012075200f7a5041e8735c5b34b28258b103ae7b53a269e2fb8ecb9f435e67f6e46ff00069ebff00ebfecf76f88eca8ac2b0d4a64982dcbfee8f1923ee9ed5ba083d0d7a986c553c4479a07255a32a4ed20a28a2ba4c828a28a0028a28a0028a28a0028a28a0028a28a0028a2a96a970f6f6a4270cff2e7d077acead48d2839cb645420e72515d4e6f52d424bdb86da48881c28f6f5a8ad63724e075ef57b4bd19f53bc481785fbceded5e99a07836ca295649504a57a02381f857c262310e527396ad9f4d430d749474470767a0ea375cc1672329fe3c56c43e03d6648448cb1c79e80f5c7d2bd8edec238d40450076c54e2d863079ae278893d8ed8e160b73c46e3c13a8c684f9c85b1f776f07d8d61cdf6ab0b810b9686740301ce411eded5eeda8d9f0481d2bcd7c75a7a1b54bb0a03c6c013ea0d7561f17283bc5ea6388c241c6f6322d6f96e4ecd855c0f987503f1ab75ce69acff00da3160fae7f2ae8ebed32fc4cb11479a5bec7cc62692a73b20a28a2bb8e70a28a2800a28a2800a28a2800a28a2800acdd6909b4461fc2e3f5ad2a86ee259ad64561db231ea39ae7c5d3f694251f234a32e5a8993f822032dd4c42f0b819af56d361c28c0ce3ad713e12d3264f0fac9061669417dc47427a1a9b76916114e2e6f7509da1204ef0c8c1519ba6e3902be02b252958fb0a4f929a3d3a085f00e295e220fa7d6b93d13539219a0890ceb1c8aac8267c9da46413f856af896e648638cef6208e8a719ae7b25a1d29b6ae4b792c10a334b3c6a075cb0ae37c5364b7fa34e210ae19772153907bf15464bcb486ea6864d13cc9117cc7937ee1b700f0738279e82b7b4cb0b56d35e4b4322dbc83708a4fe127d076ab51517733e6e7ba3c774843fda2dbba8526ba0a6ae8770be28bf8ede12e231bb03b03cd3ba706bedb26945e1ec9eb73e533084a35755a0514515eb1c21451450014514500145145001451450015ada0da25ecd7103052c63e030ce47438fcc564d5fd1ae8da6ad04b9c02769fc7fc8ae4c7d3954c34e31dedf96a74e0a7186221296d73b6f0da08f4b8adb00144087f0e2b493c3f02c8d247126e7fbc4af5ac8d1e56fb6dc444105652707d09c8aee6d1d5572c057c055f8ae7d9534ad6398b9b45b4bf8140cca79f4c0ab9a8e0bc2b7206d3dfd29ba8b6fd465786401a42016dbb8ae3b0a8ef259ae1817b80c9b763284c8fae7ae6b1e5b9a5d22dff63e5319cc679c678a8ae224b6899578e3bd69e9d74a906c521900e33591ac3ee57603800d34b513b58c8d2ada27bad427703123229f70063fad79fccc1ee2571d19d8feb5d9473cb65e1fbdbb21be662a99edd811f8d7155f59c3f49af6951ececbeeff00873e7739a89fb382f37f78514515f467861451450014514500145145001451450014a8ed1baba1c329041f422928a370d8eb343d63ed5abbcb32a46ee0642f424719af418dfcc8b86038af17b794c33aba9e95dce9daf1fb32973d060d7c4e7783542aa705eeb3eab2bc53ad4da9bd51666b5d4a2bf2cd74a2dc9dc422e08fc7bd3ef20fb4c48b677d39941ecdc0abeba95bf92aed2001bbe69c753b08dd57cd5c37bf7af1d49d8f4ee911e936b3d9893cfb969432f1bb1c1ef506bb7696f68e49ed4ba8ea31c72796847a9c571baf5fbdd1619f957b56d84a2ebd78c3bb46188abeca94a7d8c99efeeae2110c93c8d02b1658c9e173ed55a8a2bf46842305cb15647c5ca729bbc9dd851451544851451400514514005145140051451400535dd628d9dd82a28c927b554bad4eded72b9f324feeaf6fa9ac8b8beb8bf3b1c08e2073b077fad7062b31a541349de5dbfcce9a5869d477d916a07bbf12ebb65a3588641752ac7c75233c93ec064d7a25f6913e8f7f7563206c46c42b7f797f85bf118adbf84fe13b0b6d2edfc40d6ead7d387d93124955cedc01d0702bb9f14e8df6eb28afa2883cb00c48a072c9edee0f3f9d7c9e32a54adefcddd9ee613929be55a23e7dbe8b57b362d14b24f1738c0e9f8566c171abdd5d4602cbb87a8200af5c97448675df0b819a8d7c3ed9f99d71f4af3fdb1e83a1aee72767f6b447595da476e86b7745f0b4bafc9716a410be439327f71f0761ff00beb1fad6b5be908f751db5aa79f73270aa3b7b93d857a4e8da2c3a269de4ab6f95cee964c63737b0ec0761fe35a5094b9b9919e21c630e57d4f982caf4ccef6d70a23ba889575f520e0e2aed6478b9445e32d61a03b42df4c54af6f9cd3ac3565913cbbb60920e8e780d5f5f81ccd4ff007759d9f7efff0004f9bc4615c7de86c6ad148a430dca4153dc1a5af60e20a28a2800a28a2800a4660aa5988007527b54573731da426590f1d001d49f4158335ccda849f39db18e883a0fafad7162f1d4f0cacf597637a3879557e468cfac20256dd3cc23f88f0bff00d7ace9eeeea7cf9b21087f857814e4419c0141c0c8233edeb5f3d5f1d5eb692765d91ea53c3d386c8a6517b0f989e2ac2c3b53078a7a445793d7f952927a1ae2373dc3e0ddf16f06de40c5e56b2b962b12f2c15941000f73bb1ef5c2788fe27f8b8f89e09a549f4ab7b39b747a7152a1803c89323e7247e1e82adfc20d67ec1e2e360ed883508ca60f4debf32ffecc3fe055eedac68565aee99358ea1025c412215c30f997dc1ec476a9901e7e355d2ef7471acc33dbdb2b9dc6332801d4ff00120272082482bd8838e2a9dbeab67ac5d8b48b54b3b78f19796599471ec33c9f6af16d534d974ad46eac271fbdb595a263d3383c1fc7ad50c573cb0f072b9d51c54e31b1f46f8abc47a3780fc28efa4dd4126a53002164955e477fef363f8475c74eddea95cfc4e9af3e144fabbc3f64d5dbfd0b60040f3187fac4cf6db96f62315c77c1df04a6bdab3eb37f007d3ac9b6a232e44b2e3b8ee141cfd48ab9f1c353493c4163a3c247976707992051801dfa0fc147fe3d5b249688e66db7767961049c9c93dc939cd45b0038f4a98669af19e4e4d58864324903158a5751d4056c62af47aadd4470db655f46183f98aa4a9f79b1d78a77f13d6f4b135a97c1268ce74a13f891b76fab5b4e42b93139ecfd0fe357ab95640e3a54b6b7f7166c141f322cf28ddbe95ec61b37fb3597cd7f91c55705d699d2d151c334771109236ca9fc31457b8a4a4aeb63cfe5b68cc3d4e53717a573f220c28fe66a2870ac47b524873293df273427fad3f4af89ab55d4a8e72ea7bf0828454512024498039c53c28504f56ee698490e08f4fcea6046debc1159940791915130e6a4e82a363c5004d63792e9da8dbdec0d8960916543eea722beb8d3af5350d36d6f603ba0b889654f5c30c8fe75f1f57d15f07758fed1f037d91df32e9f2b4473d761f994fea47fc06a240796fc658e187c7acd032f9935ac6f328fe1619033f5502bcfe185a591630c01721413d064f7ad5f136a6dadf8b354d4598b09ae1b67fb80e147e40567ac646411838a7b81f5af86f46b6f0bf86ed74cb72ab15b47f3487abb1e598fd4e4d7cbde26d58eb9e27d4b5324959e76299fee0e17f402bda6ff00c5d237c128b5767c5ccd6df64e4f265e6327f42d5e00060003a0a2d604394fad3feb518eb4e048fa5340291da9b8fbc7d6949c9c0fff00550d8c62980d0723dc546cc39347426a2272d8fce95c0d9d0e5004b131f46a2b2a399a0cba7de3c7e1457af84cd550a4a9b8dec7155c273cdcae4cdfeb09f539a13efb1fa529e707d45353ef3fd4579077131e4d391bb7e551e78a4cd0226247af3519a70395c8a69a00415dd7c33f11ff0061dd6b50336d4bad3666419ff9691a33afe9beb851c53d1d91b2ac54905491e84608fc89a1ea043121523356dc64e40a8f6fcbb87ad4ce0027391c7342036b58d64cbe05d074746c2c52cf33a8ff007885cfe6d5cc5296de723a76149df078a004e87346683c527414807020534b668269a4d3010f53512e49663dce0549d78a68c1c9ed9a40358738f414504e4e7d68a00b7fc22922ff0058ff0085145318e34945140855386c7634e3d28a2801b5201c67d68a2801c8c5403e949330f2dbd4d14530201c60504e4734515231bfc54868a28108690d14500263e614ce8a00a28a0043d68a28a00fffd9}}{\nestcell{\nonesttables\par}\pard}
+{\*\nesttableprops \trowd\trql\trrh1701\cellx1985\nestrow}
+\intbl\itap1\~\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs28 \f1 \cf3 \b Sawa Linto\b0 \line }
+}\intbl\itap1
+\ql{\fs22 \f1 \cf4 \b Web Developer (2 years 6 months)\line Freelance\b0 }
+\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\cellx2948\cellx10489
+
+{}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmrg\cellx1814\clvmgf\cellx10489
+
+{}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri113 \sa124 {\fs20 \f1 (+62) 82274677715 | sawalinto@gmail.com | IDR 4,500,000 | Sumatera Utara}
+\cell
+
+\row
+\pard\itap0
+\par \pard\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx2495\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx4196\clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Experience\b0 }
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl227 \clpadfb3\clpadb227 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs22 \f1 4 years of total experience}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Jan 2021 - Present}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (2 years 6 months)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Web Developer\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Freelance}
+\intbl\itap1
+\ql{\fs20 \f1  | Sumatera Utara}
+\intbl\itap1
+\ql{\fs20 \f1 , Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Sesuai Permintaan Client}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IT/Computer - Software}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Software Engineer/Programmer}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 CEO / GM / Director / Senior Manager}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Mengerjakan web aplikasi sesuai brief dengan client, dengan waktu yang sudah di sepakati}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Mar 2020 - Present}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (3 years 4 months)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Graphic Designer\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Fritto Chicken}
+\intbl\itap1
+\ql{\fs20 \f1  | Sumatera Utara}
+\intbl\itap1
+\ql{\fs20 \f1 , Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Food & Beverage / Catering / Restaurant}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Arts/Creative/Graphics Design}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Graphics Designer}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Staff (non-management & non-supervisor)}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IDR 3,800,000}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Membuat design product sebagai Media Promosi dengan visualisasi yang menarik.}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs20 \f1 Feb 2019 - Aug 2019}
+}\intbl\itap1
+\ql{\fs18 \f1 \cf2 \line (7 months)}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b Graphic Designer\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line OK Grafika}
+\intbl\itap1
+\ql{\fs20 \f1  | Sumatera Utara}
+\intbl\itap1
+\ql{\fs20 \f1 , Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Industry}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Printing / Publishing}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Specialization}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Arts/Creative/Graphics Design}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Role}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Graphics Designer}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Position Level}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Fresh Grad / Less than 1 year experience}
+\cell
+
+\row
+\trowd\trql\cellx2495\cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Monthly Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IDR 1,500,000}
+\cell
+
+\row
+\trowd\trql\cellx2495\clvmgf\clpadfl3\clpadl170 \cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Membuat design sesuai permintaan client}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Education\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 2023}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b STMIK Triguna Dharma\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line Bachelor's Degree}
+\intbl\itap1
+\ql{\fs20 \f1  in Computer Science/Information Technology}
+\intbl\itap1
+\ql{\fs20 \f1  | Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Major}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Sistem Komputer}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfb3\clpadb170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 CGPA}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 3.63 / 4.0}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 2017}
+\cell
+
+\intbl\itap1
+\ql{\ql \li113 \ri284 \sl240 {\fs24 \f1 \b SMK SWASTA PGRI 17 LOHSARI\b0 }
+}\intbl\itap1
+\ql{\fs20 \f1 \line SMU}
+\intbl\itap1
+\ql{\fs20 \f1  in Engineering (Computer/Telecommunication)}
+\intbl\itap1
+\ql{\fs20 \f1  | Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Skills\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Advanced}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Photoshop}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Intermediate}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 PHP And MySQL, Adobe Illustrator}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Basic}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 JavaScript, Laravel, Blender, After Effects}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b Additional Info\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Expected Salary}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 IDR 4,500,000}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfb3\clpadb170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Preferred Work Location}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Sumatera Utara, Sumatera Utara - Asahan Kisaran, Riau}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\cellx4196\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Other Information}
+\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf5 Sertifikat kursus komputer\line Piagam penghargaanpenghargaan LKS SMK SUMUT\line Piagam juara 1 film pendek tingkat KABUPATEN}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\trowd\trql\clvmgf\clpadft3\clpadt113 \clpadfl3\clpadl170 \clpadfb3\clpadb113 \clbrdrb\brdrs\brdrw20\brsp0\brdrcf2 \cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs26 \f1 \b About Me\b0 }
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \clpadfl3\clpadl170 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Address}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Sumatera Utara, Indonesia}
+\cell
+
+\row
+\trowd\trql\clpadft3\clpadt113 \cellx2495\clvmgf\cellx10490
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs18 \f1 \cf2 Nationality}
+\cell
+
+\intbl\itap1
+\ql\ql \li113 \ri284 \sl240 {\fs20 \f1 Indonesia}
+\cell
+
+\row
+\trowd\trql\cellx2495\clpadfl3\clpadl170 \cellx4196\cellx10490
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+{{\~}}\intbl\cell
+
+\row
+\pard\itap0
+
+}
