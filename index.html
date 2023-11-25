@@ -74,7 +74,7 @@
                 <div class="col mt-lg-5 ">
                     <h2 class="" data-aos="fade-down" data-aos-duration="1000">Hi, Perkenalkan Saya</h2>
                     <span>
-                        <h1 id="typing" class="name">SAWALINTO</h1>
+                        <h1 id="typing" class="name"></h1>
                     </span>
 
                     <h6 data-aos="fade-up" data-aos-duration="1500">Selamat Datang di Portofolio Saya <i
@@ -475,18 +475,18 @@
         });
 
 
-        // $(document).ready(function () {
-        //     var name = "SAWALINTO";
-        //     function typeName(name, iteration) {
-        //         if (iteration === name.length)
-        //             return;
-        //         setTimeout(function () {
-        //             $('.name').text($('.name').text() + name[iteration++]);
-        //             typeName(name, iteration);
-        //         }, 200);
-        //     }
-        //     typeName(name, 0);
-        // });
+        $(document).ready(function () {
+            var name = "SAWALINTO";
+            function typeName(name, iteration) {
+                if (iteration === name.length)
+                    return;
+                setTimeout(function () {
+                    $('.name').text($('.name').text() + name[iteration++]);
+                    typeName(name, iteration);
+                }, 200);
+            }
+            typeName(name, 0);
+        });
 
 
         function openCity(evt, cityName) {
